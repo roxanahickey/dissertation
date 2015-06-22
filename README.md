@@ -1,2 +1,2 @@
 # dissertation
-Document and supplementary files of my Ph.D. dissertation at the University of Idaho
+Document and supplementary files of my doctoral dissertation at the University of Idaho
